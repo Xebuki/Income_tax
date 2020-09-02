@@ -1,0 +1,14 @@
+{
+    "name": "vendor/project",
+    "description": "Description of project project.",
+    "authors": [
+        {
+            "name": "Goldi",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+    "twbs/bootstrap": "4.3.1",
+    "components/jquery": "1.9.*"
+    }
+}
